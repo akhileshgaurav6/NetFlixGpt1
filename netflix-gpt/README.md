@@ -16,8 +16,19 @@ If you are developing a production application, we recommend using TypeScript wi
 -Create React App
 -Configured tailwind
 -Header
+-routing of App
 -Login Form
 -SignUp Form
+-Form Validation
+-useRef hook
+-firebase setup
+-Deploying our app to production
+-Create SignUp user Account
+-Implement Sign in User Api
+-Created Redux store with userSlice
+-Implemented Sign Out feature
+-Update profile api
+-Fetch from TMDB Movies
 
 #Features
 -Login / Sign Up
