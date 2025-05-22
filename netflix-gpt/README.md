@@ -29,6 +29,21 @@ If you are developing a production application, we recommend using TypeScript wi
 -Implemented Sign Out feature
 -Update profile api
 -Fetch from TMDB Movies
+-BugFix: Sign up user displayName and profile picture update
+-BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
+-Unsubscribed to the onAuthStateChanged callback
+-Add hardcoded values to the constants file
+-Register TMDB Api & create an app & get an access token.
+-Get data from TMDB now playing movies list API
+-Custom hook for now playing movies
+-Create movieSlice
+-Update Store with movies Data
+-Planning for MainContainer and SecondaryContainer
+-Fetch data for Trailer video
+-Update store with Trailer Video Data
+-Embedded the Youtube video and make it autoplay and mute
+-Tailwind classes to make Main Container look awesome
+
 
 #Features
 -Login / Sign Up
